@@ -1,0 +1,17 @@
+{
+  "name": "individual-coursework-2",
+  "version": "1.0.0",
+  "description": "A web-application created with node.js and vue.js for cst3145 individual coursework",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Godwin Odenigbo",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongodb": "^3.6.3"
+  }
+}
